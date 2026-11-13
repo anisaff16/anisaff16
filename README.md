@@ -40,5 +40,5 @@ Using more than 51,000 transaction records, I evaluated sales and profit across 
 
 Feel free to reach out through:
 
-- LinkedIn: [linkedin.com/in/anisahfatinfarahdillah]
+- LinkedIn: [https://www.linkedin.com/in/anisahfatinfarahdillah]
 - Email: [anisaff16@gmail.com]
