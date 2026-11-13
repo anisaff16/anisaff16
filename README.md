@@ -1,4 +1,4 @@
-# Anisah Fatin Farahdillah
+# Hi👋, I'm Anisah
 
 Data and analytics enthusiast based in Tangerang.
 
